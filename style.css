@@ -140,6 +140,11 @@ footer
   animation-delay: 2.2s;
 }
 
+img 
+{
+  max-width:90%;
+}
+
 .gallery-item:nth-child(12) 
 {
   animation-delay: 2.4s;
